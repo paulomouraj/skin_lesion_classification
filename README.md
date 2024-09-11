@@ -46,4 +46,4 @@ The skin lesion images along with metadata were taken from ISIC dataset, availab
 
 Paulo Roberto de Moura Júnior (me)
 
-[High level description]()
+[High level description](https://github.com/paulomouraj/skin_lesion_classification/blob/main/docs/skin_lesion_classification_HLD.pdf)
