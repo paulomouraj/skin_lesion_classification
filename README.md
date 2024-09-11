@@ -22,7 +22,7 @@ The skin lesion images along with metadata were taken from ISIC dataset, availab
 * PyTorch-cuda 11.8
 * Pillow 10.4.0
 * TorchVision 0.18.0
-* PyTorch Image models (timm) 0.1.8
+* PyTorch Image Models (timm) 0.1.8 : https://huggingface.co/timm
 * Tqdm 2.2.3
 
 ## Contributors
