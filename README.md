@@ -1,7 +1,16 @@
 # Classification of Skin Lesions
 
 ## Description
-The goal of this work was to perform supervised classification of skin lesions to 8 diagnostic classes. This project is part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course and its goal was to apply classical machine learning and deep learning methods to classify medical images in a highly umbalanced dataset.
+The goal of this work was to perform supervised classification of skin lesions to 8 diagnostic classes. This project is part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course and its goal was to apply classical machine learning methods and convolutional neural networks (CNN) to classify medical images in a highly imbalanced dataset. 
+  
+Classical machine learning methods used
+* K-Nearest Neighbours
+* Suppport Vectors Classifier with BRF kernel
+* Previous methods with oversampling (ADASYN)
+  
+Convolutional neural networks used:
+* LeNet-5
+* Inception-ResNet-v2
 
 ## Dataset
 The skin lesion images along with metadata were taken from ISIC dataset, available on https://challenge.isic-archive.com/data/.
