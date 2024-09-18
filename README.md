@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this work was to perform supervised classification of skin lesions to 8 diagnostic classes. This project is part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course and its goal was to apply classical machine learning methods and convolutional neural networks (CNN) to classify medical images in a highly imbalanced dataset. In order to apply the classical machine learning methods, a segmentation pipeline to output the lesion area mask was implemented based on UNet CNN architecture.
+The goal of this work was to perform supervised classification of skin lesions to 8 diagnostic classes. This project is part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course and its goal was to apply classical machine learning methods and convolutional neural networks (CNN) to classify medical images in a highly imbalanced dataset. In order to apply the classical machine learning methods, a segmentation pipeline to output the lesion area mask was implemented based on UNet CNN architecture. The best model (Inception-ResNet-v2) reached a weighted accuracy of 72% in the test dataset.
 
 Classical machine learning methods used
 
